@@ -37,4 +37,6 @@
 *.s
 # VsCode workspace
 
-.vscode/
+.vscode/*
+
+build/
