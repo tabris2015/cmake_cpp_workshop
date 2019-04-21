@@ -1,5 +1,6 @@
 #ifndef SALUDO_H
 #define SALUDO_H
+
 #include <iostream>
 #include <string>
 class Saludo

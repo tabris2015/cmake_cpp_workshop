@@ -30,6 +30,7 @@
         "cstdarg": "cpp",
         "cstddef": "cpp",
         "cstring": "cpp",
-        "ctime": "cpp"
+        "ctime": "cpp",
+        "string": "cpp"
     }
 }
