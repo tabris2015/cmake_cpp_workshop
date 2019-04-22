@@ -16,9 +16,18 @@ Este taller tiene el objetivo de brindar a los asistentes el conocimiento necesa
 
 Se puede instalar todas las dependencias corriendo el siguiente comando en un terminal:
 
+Ubuntu, Debian:
+
 ```bash
 sudo apt-get install build-essential cmake gdb gdb-server
 ```
+
+Fedora:
+
+```bash
+sudo dnf install cmake gdb gdb-server
+```
+
 
 ### Instalación de Visual Studio Code
 
