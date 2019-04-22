@@ -34,9 +34,10 @@
 
 ### Repo specific
 *.i
-*.s
+
 # VsCode workspace
 
 .vscode/*
+.vscode/settings.json
 
 build/

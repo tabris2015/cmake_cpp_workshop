@@ -4,11 +4,11 @@ Este es el repositorio de codigo y ejemplos para el taller de CMake y C++ modern
 
 Este taller tiene el objetivo de brindar a los asistentes el conocimiento necesario para configurar y desarrollar proyectos completos usando una suite Open Source para el lenguaje de programación C++11. La suite Open Source se compone de los siguientes componentes:
 
-- **Sistema Operativo**: Ubuntu 18.04 LTS (Linux 4.15.0).
-- **Compilador**: GCC v7.3.0 (Ubuntu 18.04 LTS).
-- **Generador de configuración**: CMake v3.10.2 (Ubuntu 18.04 LTS).
-- **Depurador**: GDB v8.1.0.
-- **Editor de texto**: Visual Studio Code v1.32.3 (Febrero 2019).
+- **Sistema Operativo**: Fedora 28 (Linux 4.16.3).
+- **Compilador**: GCC v8.3.1 (Fedora 28).
+- **Generador de configuración**: CMake v3.14.1 (Fedora 28).
+- **Depurador**: GDB v8.1.1.
+- **Editor de texto**: Visual Studio Code v1.33 (Abril 2019).
 
 > Dado que el curso esta orientado al desarrollo de aplicaciones con C++11, la compatibilidad debería mantenerse con versiones anteriores del compilador GCC hasta la versión 4.8.x.
 
