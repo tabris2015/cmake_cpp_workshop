@@ -58,21 +58,25 @@ El contenido propuesto del taller es el siguiente:
 2. Introducción a Linux y la línea de comandos.
    * Entorno de linea de comandos.
    * Comandos básicos de navegación y manejo de archivos.
+    
 
 3. Toolchain y proceso de compilación en Linux.
    * Preprocesado.
    * Compilación.
    * Ensamblado.
    * Enlazado.
+   > [Ejemplo1](hello_gcc)
+   > [Ejemplo2](varios_archivos)
 
 4. GNU Make
    * Introducción al uso de Makefiles.
+    > [Ejemplo](hello_makefile)
 
 5. Introducción a CMake.
-   * Configuración básica.
-   * Compilación de librerías.
-   * Integración con dependencias.
-   * Flujo de trabajo.
+   * Configuración básica. [Ejemplo](hello_cmake)
+   * Compilación de librerías.  [Ejemplo](lib_cmake)
+   * Integración con dependencias. [Ejemplo](hilos)
+   * Flujo de trabajo.  [Ejemplo](project_cmake)
 
 6. Proyecto de aplicación.
 
