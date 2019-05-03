@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0)
+project(complejo)
+set(CMAKE_CXX_STANDARD 11)
+include_directories(include)
+add_library(libcomplejo STATIC src/complex.cpp)
+add_executable(complejo src/main.cpp)
+target_link_libraries(complejo libcomplejo)

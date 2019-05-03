@@ -6,5 +6,5 @@ int main (void)
 {
 hola.hablar("hola");
 hola.memorizar("arriba");
-hola.repetir(4);
+hola.repetir(7);
 }
